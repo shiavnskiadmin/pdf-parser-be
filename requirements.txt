@@ -1,0 +1,5 @@
+fastapi==0.76.0
+uvicorn==0.15.0
+elasticsearch==7.17.0
+pytesseract==0.3.10
+opencv_python==4.9.0.80
